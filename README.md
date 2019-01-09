@@ -1,8 +1,10 @@
 ## Welcome to HydraHacksScripts
 
 HydraHacksScripts is a list of scripts used by the USB Rubber Ducky and the USB Malduino
-USB Rubber Ducky:https://shop.hak5.org/products/usb-rubber-ducky-deluxe
-USB Maldino Elite:https://maltronics.com/collections/malduinos/products/malduino-elite
+USB Rubber Ducky: https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+USB Maldino Elite: https://maltronics.com/collections/malduinos/products/malduino-elite
+Home Website: https://hydrahack.github.io/HydraHacksHome/
+
 ### The script shown below is one that I created myself, it simulates that the victims computer is being compromised. Remember, nothing is actually happening, it's for joking around only!
 
 
